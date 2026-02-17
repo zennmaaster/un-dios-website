@@ -22,7 +22,8 @@ import Layout from '../layouts/Layout.astro';
       animation: crawl 90s linear infinite;
     }
 
-    .crawl-wrapper:hover {
+    .crawl-wrapper:hover,
+    .crawl-wrapper.paused {
       animation-play-state: paused;
     }
 
@@ -195,36 +196,44 @@ import Layout from '../layouts/Layout.astro';
     </div>
 
     <!-- The crawling text -->
-    <div class="crawl-wrapper px-0">
+    <div class="crawl-wrapper px-0" id="crawl-wrapper" onclick="this.classList.toggle('paused')">
       <div class="crawl-content">
-        <p class="text-amber-400 mb-16 tracking-[0.3em] font-bold uppercase" style="font-size: 6vw;">A LONG TIME AGO IN A GALAXY NOT SO FAR AWAY...</p>
+        <p class="text-amber-400 mb-16 tracking-[0.3em] font-bold uppercase" style="font-size: 5vw;">A LONG TIME AGO IN A GALAXY NOT SO FAR AWAY...</p>
 
-        <h1 class="font-black text-amber-400 glow-gold mb-20 uppercase tracking-wider leading-none text-center mx-auto" style="font-family: 'Playfair Display', serif; font-size: 20vw;">
+        <h1 class="font-black text-amber-400 glow-gold mb-20 uppercase tracking-wider leading-none" style="font-family: 'Playfair Display', serif; font-size: 18vw; width: 100%; text-align: center;">
           ARVIND<br/>CHANDRASHEKAR
         </h1>
 
-        <div class="space-y-16 text-zinc-200 leading-snug font-bold uppercase" style="font-family: 'Space Grotesk', sans-serif; font-size: 8vw;">
+        <div class="space-y-12 text-zinc-200 leading-snug font-bold uppercase" style="font-family: 'Space Grotesk', sans-serif; font-size: 5vw;">
           <p>
-            IN A WORLD DOMINATED BY OPERATORS, <span class="text-violet-400">A THINKER</span> EMERGES...
+            IN A WORLD OF OPERATORS, <span class="text-violet-400">A THINKER</span> EMERGES...
           </p>
           <p>
-            ARMED WITH NOTHING BUT CURIOSITY AND AN UNREASONABLE BELIEF THAT
-            <span class="text-amber-400">AI COULD WRITE CODE FOR HIM</span>,
-            HE SETS OUT ON AN IMPOSSIBLE MISSION.
+            ARMED WITH CURIOSITY AND THE BELIEF THAT <span class="text-amber-400">AI COULD CODE FOR HIM</span>
+          </p>
+          <p>
+            HE EMBARKS ON AN IMPOSSIBLE MISSION.
           </p>
           <p class="text-zinc-400">
-            BY DAY, HE LEADS A RESEARCH TEAM, STUDYING WHY HUMANS DO THE STRANGE THINGS THEY DO.
-            BY NIGHT, HE BUILDS <span class="text-violet-400">UN-DIOS</span> — AN OPEN ANDROID CONVERGENCE PLATFORM.
+            BY DAY, HE LEADS A RESEARCH TEAM.
           </p>
           <p class="text-zinc-400">
-            HE WRITES ESSAYS NOBODY ASKED FOR, PURSUES A DOCTORATE ON SOCIAL COMPARISON,
-            AND OCCASIONALLY PUBLISHES BOOKS UNDER MYSTERIOUS PEN NAMES.
+            BY NIGHT, HE BUILDS <span class="text-violet-400">UN-DIOS</span> — AN OPEN ANDROID PLATFORM.
           </p>
-          <p class="text-white mt-24" style="font-size: 10vw;">
+          <p class="text-zinc-400">
+            HE WRITES ESSAYS NOBODY ASKED FOR.
+          </p>
+          <p class="text-zinc-400">
+            HE PURSUES A DOCTORATE ON SOCIAL COMPARISON.
+          </p>
+          <p class="text-zinc-400">
+            HE PUBLISHES BOOKS UNDER MYSTERIOUS PEN NAMES.
+          </p>
+          <p class="text-white mt-24" style="font-size: 7vw;">
             THIS IS HIS CORNER OF THE INTERNET.
           </p>
-          <p class="text-zinc-500 mt-20 tracking-widest" style="font-size: 4vw;">
-            ↓ SCROLL DOWN OR WAIT FOR THE CRAWL ↓
+          <p class="text-zinc-500 mt-20 tracking-widest" style="font-size: 3vw;">
+            ↓ CLICK TO PAUSE • SCROLL TO EXPLORE ↓
           </p>
         </div>
       </div>
