@@ -8,7 +8,7 @@ import Layout from '../layouts/Layout.astro';
   <style>
     /* Star Wars Crawl */
     .star-wars-container {
-      perspective: 400px;
+      perspective: 300px;
       height: 100vh;
       overflow: hidden;
       position: relative;
@@ -29,17 +29,17 @@ import Layout from '../layouts/Layout.astro';
     @keyframes crawl {
       0% {
         top: 100%;
-        transform: rotateX(25deg) translateZ(0);
+        transform: rotateX(20deg) translateZ(0);
       }
       100% {
-        top: -300%;
-        transform: rotateX(25deg) translateZ(-2500px);
+        top: -350%;
+        transform: rotateX(20deg) translateZ(-2000px);
       }
     }
 
     .crawl-content {
       text-align: center;
-      max-width: 1000px;
+      max-width: 90vw;
       margin: 0 auto;
     }
 
@@ -191,15 +191,15 @@ import Layout from '../layouts/Layout.astro';
     </div>
 
     <!-- The crawling text -->
-    <div class="crawl-wrapper px-6">
+    <div class="crawl-wrapper px-4">
       <div class="crawl-content">
-        <p class="text-amber-400 text-3xl md:text-4xl mb-12 tracking-[0.5em] font-bold uppercase">A LONG TIME AGO IN A GALAXY NOT SO FAR AWAY...</p>
+        <p class="text-amber-400 text-4xl md:text-6xl mb-16 tracking-[0.3em] font-bold uppercase">A LONG TIME AGO IN A GALAXY NOT SO FAR AWAY...</p>
 
-        <h1 class="text-7xl md:text-9xl font-black text-amber-400 glow-gold mb-16 uppercase tracking-wider" style="font-family: 'Playfair Display', serif;">
+        <h1 class="text-8xl md:text-[12rem] font-black text-amber-400 glow-gold mb-20 uppercase tracking-wider leading-none" style="font-family: 'Playfair Display', serif;">
           ARVIND<br/>CHANDRASHEKAR
         </h1>
 
-        <div class="space-y-10 text-3xl md:text-4xl text-zinc-200 leading-relaxed font-bold uppercase tracking-wide" style="font-family: 'Space Grotesk', sans-serif;">
+        <div class="space-y-12 text-4xl md:text-6xl text-zinc-200 leading-snug font-bold uppercase tracking-wide" style="font-family: 'Space Grotesk', sans-serif;">
           <p>
             IN A WORLD DOMINATED BY OPERATORS, <span class="text-violet-400">A THINKER</span> EMERGES...
           </p>
@@ -216,11 +216,11 @@ import Layout from '../layouts/Layout.astro';
             HE WRITES ESSAYS NOBODY ASKED FOR, PURSUES A DOCTORATE ON SOCIAL COMPARISON,
             AND OCCASIONALLY PUBLISHES BOOKS UNDER MYSTERIOUS PEN NAMES.
           </p>
-          <p class="text-4xl md:text-5xl text-white mt-16">
+          <p class="text-5xl md:text-7xl text-white mt-20">
             THIS IS HIS CORNER OF THE INTERNET.
           </p>
-          <p class="text-2xl text-zinc-500 mt-12 tracking-widest">
-            ↓ SCROLL DOWN OR WAIT FOR THE CRAWL TO REVEAL MORE ↓
+          <p class="text-3xl text-zinc-500 mt-16 tracking-widest">
+            ↓ SCROLL DOWN OR WAIT FOR THE CRAWL ↓
           </p>
         </div>
       </div>
