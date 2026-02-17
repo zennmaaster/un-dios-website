@@ -3,160 +3,240 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Personal - Arvind Chandrashekar" description="Beyond the resume. On wanting your own category, being a thinker in an operator's world, and building anyway.">
-  <article class="max-w-3xl mx-auto px-6 py-16 prose prose-invert prose-zinc">
 
-    <p class="text-xl text-zinc-300 leading-relaxed">
-      I've never been good at introducing myself. The moment someone asks "what do you do?", I feel the answer shrinking to fit their expectation. Director of Research. Behavioral scientist. The guy with the patents. All true, none of it quite right.
-    </p>
+  <!-- Hero Section -->
+  <section class="max-w-5xl mx-auto px-6 pt-20 pb-16">
+    <div class="flex flex-col md:flex-row items-center md:items-start gap-12">
+      <!-- Photo -->
+      <div class="shrink-0">
+        <div class="w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden ring-4 ring-zinc-800 shadow-2xl">
+          <img src="/arvind.png" alt="Arvind Chandrashekar" class="w-full h-full object-cover" />
+        </div>
+      </div>
+      <!-- Intro -->
+      <div class="text-center md:text-left">
+        <h1 class="text-4xl md:text-5xl font-bold mb-6 tracking-tight">Arvind Chandrashekar</h1>
+        <p class="text-xl md:text-2xl text-zinc-400 leading-relaxed max-w-xl">
+          I've never been good at introducing myself. The moment someone asks "what do you do?", I feel the answer shrinking to fit their expectation.
+        </p>
+      </div>
+    </div>
+  </section>
 
-    <p class="text-zinc-400 leading-relaxed">
-      The thing about wanting your own category is that no one's going to hand it to you. You have to carve it out, awkwardly, in public, while pretending you know what you're doing.
-    </p>
+  <!-- Pull Quote -->
+  <section class="bg-zinc-900/30 py-16">
+    <div class="max-w-4xl mx-auto px-6">
+      <blockquote class="text-2xl md:text-3xl font-light text-zinc-300 leading-relaxed text-center italic">
+        "The thing about wanting your own category is that no one's going to hand it to you. You have to carve it out, awkwardly, in public, while pretending you know what you're doing."
+      </blockquote>
+    </div>
+  </section>
 
-    <p class="text-zinc-400 leading-relaxed">
+  <!-- Main Content -->
+  <article class="max-w-3xl mx-auto px-6 py-20">
+
+    <p class="text-lg text-zinc-400 leading-relaxed mb-16">
       I am, by most measures, bad at the things that are supposed to matter — networking, self-promotion, operating. I am a thinker in a world that rewards operators. And yet here I am, building anyway.
     </p>
 
-    <hr class="border-zinc-800 my-12" />
+    <!-- Section: The Long Way Around -->
+    <section class="mb-20">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">The Long Way Around</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">The long way around</h2>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I started in computer science because that's what you did if you were good at math and bad at knowing what you wanted. Then political science, because I got curious about why people make the choices they do — not individually, but in groups, in systems, under pressure. Then quantitative finance, because I wanted to understand markets, which are really just collective behavior with a price tag.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I started in computer science because that's what you did if you were good at math and bad at knowing what you wanted. Then political science, because I got curious about why people make the choices they do — not individually, but in groups, in systems, under pressure. Then quantitative finance, because I wanted to understand markets, which are really just collective behavior with a price tag. Now behavioral science, because after all that wandering, I realized the question I'd been circling was always the same: <em class="text-zinc-300">why do people do what they do, and can we design around it?</em>
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        Now behavioral science, because after all that wandering, I realized the question I'd been circling was always the same:
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      It looks scattered on paper. It didn't feel scattered. It felt like I kept leaving rooms because I couldn't find the question I was actually trying to answer.
-    </p>
+      <p class="text-xl text-zinc-200 leading-relaxed pl-6 border-l-2 border-zinc-700 my-8">
+        Why do people do what they do, and can we design around it?
+      </p>
 
-    <hr class="border-zinc-800 my-12" />
+      <p class="text-zinc-400 leading-relaxed">
+        It looks scattered on paper. It didn't feel scattered. It felt like I kept leaving rooms because I couldn't find the question I was actually trying to answer.
+      </p>
+    </section>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">The thinker problem</h2>
+    <!-- Section: The Thinker Problem -->
+    <section class="mb-20">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">The Thinker Problem</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <p class="text-zinc-400 leading-relaxed">
-      Here's something I've had to make peace with: I am not an operator. I don't sustain execution at the level operators do. I see patterns, connections, the shape of things before they exist. But turning that into something real — the grind, the follow-through, the thousand small decisions — that's not where I live.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        Here's something I've had to make peace with: I am not an operator. I don't sustain execution at the level operators do. I see patterns, connections, the shape of things before they exist. But turning that into something real — the grind, the follow-through, the thousand small decisions — that's not where I live.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      For years this felt like a deficiency. Everyone around me was shipping, scaling, grinding. I was thinking.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        For years this felt like a deficiency. Everyone around me was shipping, scaling, grinding. I was thinking.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      Un-Dios is my answer to that. Not by becoming an operator, but by finding a different way. I'm building an entire Android platform without writing a line of code myself — working through Claude, through AI agents, through whatever tools let me translate vision into artifact without pretending to be someone I'm not.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        <span class="text-zinc-200 font-medium">Un-Dios</span> is my answer to that. Not by becoming an operator, but by finding a different way. I'm building an entire Android platform without writing a line of code myself — working through Claude, through AI agents, through whatever tools let me translate vision into artifact without pretending to be someone I'm not.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      Is it cheating? Maybe. Is it working? So far.
-    </p>
+      <p class="text-zinc-500 leading-relaxed italic">
+        Is it cheating? Maybe. Is it working? So far.
+      </p>
+    </section>
 
-    <hr class="border-zinc-800 my-12" />
+    <!-- Section: On Respect -->
+    <section class="mb-20">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">On Respect</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">On respect (and what it actually means)</h2>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I used to think I wanted respect. That was the word I kept using. Respect over money. Respect over titles. It took me an embarrassingly long time to realize that "respect" was a stand-in for something else.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I used to think I wanted respect. That was the word I kept using. Respect over money. Respect over titles. It took me an embarrassingly long time to realize that "respect" was a stand-in for something else.
-    </p>
+      <div class="grid grid-cols-2 md:grid-cols-5 gap-3 my-10">
+        {['Safety', 'Visibility', 'Control', 'Autonomy', 'Justice'].map((word) => (
+          <div class="bg-zinc-900 border border-zinc-800 rounded-lg px-4 py-3 text-center">
+            <span class="text-sm text-zinc-300">{word}</span>
+          </div>
+        ))}
+      </div>
 
-    <p class="text-zinc-400 leading-relaxed">
-      What I actually want: safety, visibility, control, autonomy, and some version of justice — the sense that effort and outcome aren't entirely disconnected. These five things, bundled together, looked like "respect" from the outside. But they're not the same thing.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        These five things, bundled together, looked like "respect" from the outside. But they're not the same thing.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      More than any of that, though, what I want is to not be reduced. Not flattened into someone else's category. Not mutated into a label that makes me easier to process.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        More than any of that, though, what I want is to <span class="text-zinc-200">not be reduced</span>. Not flattened into someone else's category. Not mutated into a label that makes me easier to process.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      Once I realized that, about 90% of my behavior made sense.
-    </p>
+      <p class="text-zinc-400 leading-relaxed">
+        Once I realized that, about 90% of my behavior made sense.
+      </p>
+    </section>
 
-    <hr class="border-zinc-800 my-12" />
+    <!-- Section: What I'm Actually Doing -->
+    <section class="mb-20">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">What I'm Actually Doing</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">What I'm actually doing</h2>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I lead a research team at Glance. We work on lockscreens, smart TVs, ambient displays — the surfaces where attention is thin and design has to earn every second. I've helped ship products to millions of users across India, Japan, the US. I have patents on AI creative analysis, trust scoring systems, cognitive load management. I'm working on a doctorate about social comparison and network mobility.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I lead a research team at Glance. We work on lockscreens, smart TVs, ambient displays — the surfaces where attention is thin and design has to earn every second. I've helped ship products to millions of users across India, Japan, the US. I have patents on AI creative analysis, trust scoring systems, cognitive load management. I'm working on a doctorate about social comparison and network mobility — why people switch communities when they feel like they're losing.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        But the thing I'm most interested in right now is <span class="text-zinc-200 font-medium">Un-Dios</span>.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      But the thing I'm most interested in right now is Un-Dios.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        It's an open convergence platform for Android. Think Ubuntu-style desktop experience meets Android's app ecosystem. Your phone becomes a real computer — terminal interface, window management, workspace switching — without needing a custom ROM or root access. Just an APK.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      It's an open convergence platform for Android. Think Ubuntu-style desktop experience meets Android's app ecosystem. Your phone becomes a real computer — terminal interface, window management, workspace switching — without needing a custom ROM or root access. Just an APK.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I'm building it because Samsung DeX exists and is locked to Samsung. Because Motorola Ready For exists and is locked to Motorola. Because I want the customization depth of Linux and the app ecosystem of Android and I don't want to ask anyone's permission to have both.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I'm building it because Samsung DeX exists and is locked to Samsung. Because Motorola Ready For exists and is locked to Motorola. Because I want the customization depth of Linux and the app ecosystem of Android and I don't want to ask anyone's permission to have both.
-    </p>
+      <p class="text-zinc-500 leading-relaxed italic">
+        It's also, if I'm honest, me proving to myself that a thinker can build.
+      </p>
+    </section>
 
-    <p class="text-zinc-400 leading-relaxed">
-      It's also, if I'm honest, me proving to myself that a thinker can build.
-    </p>
+    <!-- Section: The Uncomfortable Parts -->
+    <section class="mb-20">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">The Uncomfortable Parts</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <hr class="border-zinc-800 my-12" />
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I am extraordinarily bad at networking. I know its value — after a certain point, everything is network. Where you live, what you eat, your next job, your kids' school. All of it. Decades of relationship-building, compounding quietly in the background.
+      </p>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">The uncomfortable parts</h2>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        I know this. I still don't do it. Something about it feels like wearing a costume that doesn't fit. I'd rather play devil's advocate in a real conversation than work a room. I'd rather write to strangers on the internet than collect LinkedIn connections.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I am extraordinarily bad at networking. I know its value — after a certain point, everything is network. Where you live, what you eat, your next job, your kids' school. All of it. Decades of relationship-building, compounding quietly in the background.
-    </p>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        Maybe that's a mistake. Probably it is. But I've accepted that I'm not going to out-network anyone, so I need to figure out my own thing.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      I know this. I still don't do it. Something about it feels like wearing a costume that doesn't fit. I'd rather play devil's advocate in a real conversation than work a room. I'd rather write to strangers on the internet than collect LinkedIn connections.
-    </p>
+      <p class="text-zinc-400 leading-relaxed">
+        This site is part of that. Writing is part of that. Building in public, awkwardly, is part of that.
+      </p>
+    </section>
 
-    <p class="text-zinc-400 leading-relaxed">
-      Maybe that's a mistake. Probably it is. But I've accepted that I'm not going to out-network anyone, so I need to figure out my own thing.
-    </p>
+    <!-- Section: What I Want -->
+    <section class="mb-16">
+      <div class="flex items-center gap-4 mb-8">
+        <div class="h-px bg-gradient-to-r from-zinc-700 to-transparent flex-1"></div>
+        <h2 class="text-sm font-medium tracking-widest text-zinc-500 uppercase">What I Want</h2>
+        <div class="h-px bg-gradient-to-l from-zinc-700 to-transparent flex-1"></div>
+      </div>
 
-    <p class="text-zinc-400 leading-relaxed">
-      This site is part of that. Writing is part of that. Building in public, awkwardly, is part of that.
-    </p>
+      <p class="text-2xl text-zinc-200 leading-relaxed mb-8">
+        My own category.
+      </p>
 
-    <hr class="border-zinc-800 my-12" />
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        Not "Director of Research" — though I am one. Not "Behavioral Scientist" — though that's closer. Not "the non-developer building an Android platform with AI" — though that's true too.
+      </p>
 
-    <h2 class="text-2xl font-bold text-zinc-100 mb-6">What I want</h2>
+      <p class="text-zinc-400 leading-relaxed mb-6">
+        Something that holds all of it without flattening any of it. A space that's mine. A way of working that fits how I actually think, not how I'm supposed to operate.
+      </p>
 
-    <p class="text-zinc-400 leading-relaxed">
-      My own category.
-    </p>
-
-    <p class="text-zinc-400 leading-relaxed">
-      Not "Director of Research" — though I am one. Not "Behavioral Scientist" — though that's closer. Not "the non-developer building an Android platform with AI" — though that's true too.
-    </p>
-
-    <p class="text-zinc-400 leading-relaxed">
-      Something that holds all of it without flattening any of it. A space that's mine. A way of working that fits how I actually think, not how I'm supposed to operate.
-    </p>
-
-    <p class="text-zinc-400 leading-relaxed">
-      I don't have it yet. But I'm building toward it.
-    </p>
-
-    <hr class="border-zinc-800 my-12" />
-
-    <p class="text-zinc-400 leading-relaxed">
-      If you've read this far, you're probably the kind of person I'd actually want to talk to.
-    </p>
-
-    <div class="flex flex-wrap gap-4 mt-8">
-      <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener"
-         class="bg-zinc-800 hover:bg-zinc-700 px-5 py-2.5 rounded-lg text-sm font-medium transition no-underline">
-        Substack
-      </a>
-      <a href="https://github.com/zennmaaster" target="_blank" rel="noopener"
-         class="bg-zinc-800 hover:bg-zinc-700 px-5 py-2.5 rounded-lg text-sm font-medium transition no-underline">
-        GitHub
-      </a>
-      <a href="https://www.amazon.com/s?k=An.Al+the+Origins+Athul+DeMarco" target="_blank" rel="noopener"
-         class="bg-zinc-800 hover:bg-zinc-700 px-5 py-2.5 rounded-lg text-sm font-medium transition no-underline">
-        My Book (as Athul DeMarco)
-      </a>
-    </div>
-
-    <p class="text-zinc-500 text-sm mt-8">
-      I'm better in writing than in person anyway.
-    </p>
+      <p class="text-zinc-400 leading-relaxed">
+        I don't have it yet. But I'm building toward it.
+      </p>
+    </section>
 
   </article>
+
+  <!-- Connect Section -->
+  <section class="bg-zinc-900/50 py-16">
+    <div class="max-w-3xl mx-auto px-6 text-center">
+      <p class="text-zinc-400 text-lg mb-8">
+        If you've read this far, you're probably the kind of person I'd actually want to talk to.
+      </p>
+
+      <div class="flex flex-wrap justify-center gap-4 mb-8">
+        <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener"
+           class="bg-zinc-800 hover:bg-zinc-700 px-6 py-3 rounded-xl text-sm font-medium transition flex items-center gap-2">
+          <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+          Substack
+        </a>
+        <a href="https://github.com/zennmaaster" target="_blank" rel="noopener"
+           class="bg-zinc-800 hover:bg-zinc-700 px-6 py-3 rounded-xl text-sm font-medium transition flex items-center gap-2">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          GitHub
+        </a>
+        <a href="https://www.amazon.com/s?k=An.Al+the+Origins+Athul+DeMarco" target="_blank" rel="noopener"
+           class="bg-zinc-800 hover:bg-zinc-700 px-6 py-3 rounded-xl text-sm font-medium transition flex items-center gap-2">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2L3 7l1.63 9.37L12 22l7.36-5.63L21 7l-9-5zm0 2.18l6.9 3.83L12 11.94 5.1 8.01 12 4.18zM5.51 9.68l5.99 3.75v7.09l-5.99-4.59V9.68zm12.98 6.25l-5.99 4.59v-7.09l5.99-3.75v6.25z"/></svg>
+          My Book
+        </a>
+        <a href="https://linkedin.com/in/arvindchandrashekar" target="_blank" rel="noopener"
+           class="bg-zinc-800 hover:bg-zinc-700 px-6 py-3 rounded-xl text-sm font-medium transition flex items-center gap-2">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          LinkedIn
+        </a>
+      </div>
+
+      <p class="text-zinc-600 text-sm italic">
+        I'm better in writing than in person anyway.
+      </p>
+    </div>
+  </section>
+
 </Layout>
