@@ -1,0 +1,54 @@
+---
+import '../styles/global.css'
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "Un-Dios - The open convergence platform for Android" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <title>{title}</title>
+  </head>
+  <body class="bg-zinc-950 text-zinc-100 min-h-screen">
+    <nav class="fixed top-0 w-full bg-zinc-950/80 backdrop-blur-md border-b border-zinc-800 z-50">
+      <div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+        <a href="/" class="flex items-center gap-3 hover:opacity-80 transition">
+          <img src="/logo.png" alt="Un-Dios" class="h-8 w-8" />
+          <span class="font-semibold text-lg">Un-Dios</span>
+        </a>
+        <div class="flex items-center gap-6 text-sm">
+          <a href="/" class="hover:text-zinc-300 transition">Home</a>
+          <a href="/professional" class="hover:text-zinc-300 transition">Professional</a>
+          <a href="/download" class="hover:text-zinc-300 transition">Download</a>
+          <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener" class="hover:text-zinc-300 transition">Blog</a>
+          <a href="https://github.com/zennmaaster" target="_blank" rel="noopener" class="bg-zinc-800 hover:bg-zinc-700 px-4 py-2 rounded-lg transition">
+            GitHub
+          </a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="pt-20">
+      <slot />
+    </main>
+
+    <footer class="border-t border-zinc-800 mt-20">
+      <div class="max-w-6xl mx-auto px-6 py-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-zinc-500">
+        <p>&copy; 2026 Un-Dios. Open source convergence for Android.</p>
+        <div class="flex items-center gap-6">
+          <a href="https://github.com/zennmaaster" target="_blank" rel="noopener" class="hover:text-zinc-300 transition">GitHub</a>
+          <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener" class="hover:text-zinc-300 transition">Substack</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

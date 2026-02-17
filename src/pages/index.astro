@@ -1,0 +1,132 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Un-Dios - Open Convergence Platform for Android">
+  <!-- Hero Section -->
+  <section class="min-h-[80vh] flex flex-col items-center justify-center text-center px-6">
+    <img src="/logo.png" alt="Un-Dios" class="h-32 w-32 mb-8 opacity-90" />
+    <h1 class="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-zinc-100 to-zinc-400 bg-clip-text text-transparent">
+      Un-Dios
+    </h1>
+    <p class="text-xl md:text-2xl text-zinc-400 max-w-2xl mb-8">
+      The open convergence platform for Android
+    </p>
+    <p class="text-zinc-500 max-w-xl mb-12">
+      Ubuntu-style desktop experience meets Android's app ecosystem.
+      No custom ROM required — just an APK.
+    </p>
+    <div class="flex flex-wrap gap-4 justify-center">
+      <a href="/download" class="bg-white text-zinc-900 px-8 py-3 rounded-lg font-medium hover:bg-zinc-200 transition">
+        Download APK
+      </a>
+      <a href="https://github.com/zennmaaster" target="_blank" rel="noopener" class="bg-zinc-800 px-8 py-3 rounded-lg font-medium hover:bg-zinc-700 transition">
+        View Source
+      </a>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="max-w-6xl mx-auto px-6 py-20">
+    <h2 class="text-3xl font-bold text-center mb-16">True Mobile-Desktop Convergence</h2>
+
+    <div class="grid md:grid-cols-2 gap-8">
+      <!-- Mobile Mode -->
+      <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
+        <div class="text-4xl mb-4">📱</div>
+        <h3 class="text-xl font-semibold mb-4">Mobile Mode</h3>
+        <ul class="space-y-3 text-zinc-400">
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Terminal/command-line as first-class interface
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            System status bar with CPU/RAM/battery info
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Ubuntu-style quick-launch dock
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Workspace & virtual desktop management
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Keyboard-centric navigation
+          </li>
+        </ul>
+      </div>
+
+      <!-- Desktop Mode -->
+      <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
+        <div class="text-4xl mb-4">🖥️</div>
+        <h3 class="text-xl font-semibold mb-4">Desktop Mode</h3>
+        <ul class="space-y-3 text-zinc-400">
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Auto-detect external display via DisplayManager
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Freeform/tiling window management (i3/GNOME style)
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Full keyboard/mouse with desktop shortcuts
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            Multi-window drag-and-drop
+          </li>
+          <li class="flex items-start gap-3">
+            <span class="text-emerald-500">→</span>
+            File manager, clipboard manager, app launcher
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Philosophy Section -->
+  <section class="bg-zinc-900/50 py-20">
+    <div class="max-w-4xl mx-auto px-6 text-center">
+      <h2 class="text-3xl font-bold mb-8">Why Un-Dios?</h2>
+      <p class="text-zinc-400 text-lg leading-relaxed mb-8">
+        An open alternative to Samsung DeX, Motorola Ready For, and other proprietary launchers.
+        Un-Dios sits on top of existing Android phones — no custom ROM, no root, just an APK.
+      </p>
+      <p class="text-zinc-400 text-lg leading-relaxed">
+        Combines the DIY customization depth of Linux with Android's massive app ecosystem and
+        on-device AI capabilities. Your phone becomes a true personal computer.
+      </p>
+    </div>
+  </section>
+
+  <!-- Tech Stack -->
+  <section class="max-w-6xl mx-auto px-6 py-20">
+    <h2 class="text-3xl font-bold text-center mb-12">Built With</h2>
+    <div class="flex flex-wrap justify-center gap-4">
+      {['Kotlin', 'Jetpack Compose', 'Material 3', 'Hilt DI', 'Room + SQLCipher', 'llama.cpp', 'On-Device LLM'].map((tech) => (
+        <span class="bg-zinc-800 px-4 py-2 rounded-full text-sm text-zinc-300">{tech}</span>
+      ))}
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="max-w-4xl mx-auto px-6 py-20 text-center">
+    <h2 class="text-3xl font-bold mb-6">Ready to Converge?</h2>
+    <p class="text-zinc-400 mb-8">
+      Un-Dios is open source and free. Download the APK or explore the source code.
+    </p>
+    <div class="flex flex-wrap gap-4 justify-center">
+      <a href="/download" class="bg-white text-zinc-900 px-8 py-3 rounded-lg font-medium hover:bg-zinc-200 transition">
+        Get Started
+      </a>
+      <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener" class="bg-zinc-800 px-8 py-3 rounded-lg font-medium hover:bg-zinc-700 transition">
+        Read the Blog
+      </a>
+    </div>
+  </section>
+</Layout>
