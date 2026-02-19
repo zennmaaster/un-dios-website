@@ -1,0 +1,48 @@
+---
+title: "34 things which men think girls like (but secretly they hate) and what I hate about them!"
+date: "2009-03-01"
+category: "essay"
+description: "Well, I was reading up men's bible of the 21st century (is it the 21st century or the 22nd century now?) 'Maxim' and I thought I should list them out, with my own opinion to all the women who are not sure about what they like and don't like, women..."
+genre: "Relationships, List"
+audience: "For people who like their humor unfiltered and their lists unreasonable."
+originalUrl: "https://whabook.blogspot.com/2009/03/34-things-which-men-think-girls-like.html"
+source: "blog"
+readTime: "7 min"
+penName: "Athul DeMarco"
+---
+
+Well, I was reading up men's bible of the 21st century (is it the 21st century or the 22nd century now?) 'Maxim' and I thought I should list them out, with my own opinion to all the women who are not sure about what they like and don't like, women are never sure about things…
+Sharing a bath – I agree with this one, true the media has the image of sharing a bath ingrained in our heads as being sexy and romantic, but then again guys who have shared baths with women know that women are so not sexy when you watch them clean themselves up. And doing it under a shower requires a lot of flexibility and ability to keep a hard on which is mighty difficult. 
+Men being clean shaven – well, this one is up for dispute really, a lot of women have complained about getting a stubble rash from me when I go down on them and a lot of them want to do me because I have a stubble. Boys, just take your pick if you want to have one or not. Because it doesn't really matter to a woman if she has decided to do it with you.
+Something about shoes – I don't really know about women's penchant of cleaning up a guy's appearance when there is nothing wrong with him
+Big muscly arms – If you don't have, women complain about you being chubby and not caring enough about yourself and if you do then they get turned off. Another classic 'I am a woman, I don't know what I like' example.
+Anything funny that involves a penis – agreed that this one of the touchy topics with us men and we never encourage talk about whose got the bigger one, but if some story is funny we never discourage the story teller. Cmon you can't blame a guy for taking serious issues lightly and having a good laugh about it from time to time.
+Having sex to sex music – Now all of us, I mean the men here women, know that doing it is a very emotional thing for you women, unlike the tried and tested jump and pump motto we guys employ, so instead of making fun of the effort we are trying to put to get your pants off, just go with the flow and blow things up (both our minds and you know… ;) )
+When men tell women that they love their wobbly bits and proceed to 'wobble' them – I mean c'mon, when you women say this baby looks cute don't you proceed to go play with it and talk baby talk with them and annoy the hell out of the baby, then why do you hate us if we 'wobble' that extra flesh hanging from your arms and call it cute.
+Massive Teddies – What? You women don't like teddy bears now, especially the ones which cost 10k and above? What is wrong with you women, give that to a guy and watch him lose his balls and turn into a sissy.
+Men chatting away to women's dad's at the bar – You want your family to like us, and then when they do you think something is fishy? There is a limit to being a paranoid, possessive witch you know!
+Watching Chick flicks with women – Now I know that you hate us watching you cry and being incapable of handling the situation and would rather pick the choice of solving the middle east crisis than offer a shoulder with you women crying with no reason or rhyme, next time why don't you go alone or take some of your girlfriends for the movie instead of making us feel like we urgently want to go potty but we can't because the tyrannical teacher won't allow a bathroom break.
+That dish men order in restaurants and think it's women's favorite – I mean you want us to be men, and take control, but you cry when we take control. Make up your mind woman!
+Really Bad cd's – Just because you don't think MLTR has learnt how to rock does not mean we are going to stop playing 'Someday' the first English song we remember listening to.
+When men attempt some sort of topiary in their pubic region – Women! First of all, its funny, get the joke… secondly… get the hint that we don't like your pubic hair and are trying to be polite by giving you polite hints.
+Flowers at work – Just because you have a secret crush on your boss's peon who has those big muscly arms from wanking too much doesn't mean that we can't mark our territory in your office.
+That once-in-a-blue-moon-drunkenness that makes men talk about babies – Why would you women want to count a gift horse's teeth? It mighty hard for a guy to talk about serious issues, and once he is starting to with assistance from certain lubricants called jhonnie and walker or old and monk. Just go with the flow and start thinking about baby names.
+Their Band – Every boy you will ever do it with will always have a dream of having his own band and being worshipped the world over, if you can't deal with this fantasy then just let him indulge in all the things he sees in a porno and wants to do it live.
+Men saying women look nice without make up – Yes, it is true you have lost 10 minutes out of every single day in your life and there is nothing you can do about it, so if a guy finds you hot without makeup, don't you think this is a good time for you to ask him for that allowance for a shopping trip?
+Men proving their love by missing out a boys night out when women are sick – It is true that we only make you feel horrible when we laugh at every single stupid sms we get from the boys about how crazy a night it is turning out to be, but admit it you are feeling horrible because you are thinking that when we get sick you will have to sacrifice something equally or less fun than what we are missing out right now and that scares the shit out of you.
+When men fall sick – Read point above.
+Sleeping with arms around each other – OK! We have seen enough rom-com's to realize the number of fights which happen when the guy just wants to sleep and the woman just wants to cuddle, so don't get pissed off with the guy if he manages to sleep and cuddle at the same time. Instead of getting mad at him, give references to your friends boyfriends so that they can learn a thing or two from him.
+The T-Shirt/Shirt which men love – Olrite! Now, we men don't know the difference between pink and fuchsia or if the latter is the name of the girl they just did, so if we like something or think that we look good in something and you beg to differ than get us something new to wear which we will like.
+Turning sex- texting into phone sex – This just confirms my theory that men are not mean, women are! I mean if a woman gets wet, she will dry up, but if there is hard on how do they expect a guy to undergo penis invert? And then blaming them for not being able to do so! 
+Valiant orgasm perseverance. When it's Just. Not. Happening – We men, at least I as a male agree to not hold off my orgasm if you women don't complain about coming too soon and making jokes about me being the one minute man! Like I said before, stop counting the gift horses teeth.
+Men's best female friend – just because you are a insecure woman doesn't mean that everybody is. We as men, take immense pride and pleasure that there does exist a woman who inspite of all our quirks likes us and may want to shag us if we make a move. 
+Men's local pub – Olrite! If you are going to complain about how seedy the place is after we take you to the one place we call our second home then don't complain about how you never get to meet our friends or how tacky and cheesy and stupid they are. We like things just the way they are. So if you have a problem! Deal with it.
+Really sweet cocktails – As women, we don't really expect you to appreciate a fine whisky or scotch! And unless and until you tell us that you want your martini to be dry we will be ordering cosmopolitans for you with 1oz vodka.
+Men taking inspiration from porn films – We will refuse to watch porn movies and delete all the porn archives we been storing since high school if you agree to give us blow jobs whenever we feel we are getting horny and you decide to get creative without harming our penises in bed. 
+Giving women piggy back rides – The objective is not to make you feel fat but to test if we can throw you on the bed and then proceed to jump and pump! Don't mistake us men to be sensitive to your feelings. We are men for a reason.
+Male strippers – Well, once again, give us clear cut instructions on occasions where it is ok for us to be insecure and act possessive and where it is not ok! Would solve a lot of problems for both of us. 
+Breakfast in bed…Not, when women are going to have sex anyway in the morning – So, will you women get us food after the morning session in the sack?
+Men not pestering women for sex – If we pester you, you call us perverts and bastards and threaten to walk away and tell us not now we need to talk. How the hell are we supposed get laid!
+Massages – Don't fucking ask for one then! Go to a  fucking spa or wherever they give massages. 
+The funny forwards containing animal penises or some bloke getting his arm bitten off by a crocodile in Australia etc – It has been well established that if its not my penis then it is funny. 
+Men being funny – If we are not funny then we would appreciate it if you did not fake your laugh or try to hide your laughter at something funny we just said.

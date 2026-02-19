@@ -1,0 +1,25 @@
+---
+title: "Reached home?"
+date: "2013-08-01"
+category: "essay"
+description: "Dear Reader, I hope you are well and not of the curious disposition to read the rest of this email. I hope you are not one of those curious people who just has to know who is speaking from that missed call from that unknown numberyou got in the mi..."
+genre: "Personal Essay"
+audience: "For people who like reading someone think out loud, unedited and unapologetic."
+originalUrl: "https://whabook.blogspot.com/2013/08/reached-home.html"
+source: "blog"
+readTime: "3 min"
+penName: "Athul DeMarco"
+---
+
+Dear Reader,
+I hope you are well and not of the curious disposition to read the rest of this email. I hope you are not one of those curious people who just has to know who is speaking from that missed call from that unknown numberyou got in the middle of the night. I hope, I really hope that when your fridge starts to make that annoying noise, you aren't curious enough to see why.Not all nightmares are had when you are sleeping. Sometimes, it is the loud voice of your boss screaming out your name. Sometimes, it is the realization that you forgot to send the attachment along with the mail.
+And sometimes, it is a simple feeling of being followed when you are walking back home in the dead of the night. The reverberating mew of the cat hiding behind the heap of garbage doesn’t help settle your nerves. You nervously laugh, and make a promise not to read/watch more thriller/horror stuff. You relax, you slow down and wonder how you can spin this story to your friends when you meet them tomorrow for drinks and dinner. You see the old man drunkenly amble, mumbling to himself as he always. He stops and raises his finger, making a strong case against the illusive judge and jury. You avoid looking at him but can’t. You walk past him. Yet, you can hear him start a conversation with the cat. You see the cat and the old man talking to each other, in their own special language, inside your mind. You wonder who he is, where he lives, and what was he talking about. You smile, before you sigh loudly and try to find the answer the persistent question of ‘what’s for dinner?’.
+You reach home, you take off those tight socks, get into something more comfortable. You switch on the telly while you inspect the mysterious contents of your refrigerator. You can hear the spectacled man demanding answers on what the police are doing to save the common man, you, from the deranged killer. You shake your head and wonder, if the man would stop yelling even after he has got the answers. You go to the kitchen, with a cold bowl of food, turn up the microwave. You hear a knock on the kitchen window. You look up. There is nothing. There is that knock again. But this time, it looks like somebody is knocking on the main door. You look at the time. Curse people and their diminishing lack of social skills and etiquettes. You look through thepeep-hole. You don’t see anybody. You open the door, just to be sure that there is nobody. There is nobody. You go back, stick the spoon in your microwaved bowl of food. You have come to the firm conclusion that it must the neighbor’s annoying kids.There is that knock again. This time it sounds frantic and loud. You ignore it. You make up your mind whether you should give the kids some of the tough love you got as a child. The knocking stops. You flip through channels, there never is anything good to watch on the television these days anyway. There is that knock on the dastard door again. Louder and more frantic than the last time. You have made up your mind. This can’t go on, you mumble to yourself. You get up and violently open the door. There are no kids, or an apologetic neighborin tow. You see the old bum leaning against the wall. Grinning at you. You want to inquire what he wants, but you can’t. You feel slightly scared. You aren’t sure if he followed you. You put your hands in yourpocket, trying to get your mobile phone out. You don’t find it. You left it on top of the fridge. The old man is still smiling at you. His teeth colored a curious mix of pastel green and jaundice yellow. You see the vomit on his beard. Just before the door closes, the old man raises his hand, clutching something. You don’t trust what your eyes registered. You lock the door with your eye peeled to the peep-hole. You still don’t want to believe what your eyes are seeing. 
+
+The cat, the mud spotted white furred feline.Dead.Its guts pulled out, its neck twisted like candy wrapper.The old man is still looking at you, smiling. You are sure he knows that you are watching him through the peep hole. He brings the cat forward. Urging you to open the door again. You watch him lift the cat closer to his vomit covered beard. You watch his pastel green-jaundiced colored yellow teeth sinking into the limp neck with agrimace.
+
+
+
+You cannot hide, you cannot throw up. You are a part of this horror.
+
+But what if you were the old man? What if you were the one, talking and waggling your finger at imaginary people. The one knocking on stranger’s door in the middle of the night.

@@ -1,0 +1,27 @@
+---
+title: "Kurian…He plans on adopting me!"
+date: "2008-10-01"
+category: "essay"
+description: "Well, in the whole series of what people think of me, who better to tell the story than the person with whom I have been staying for more than a year and a half… Scroll down to find a touching, honest, can't really call it brutal take on me…  Arvi..."
+genre: "Personal Essay"
+audience: "For people who like reading someone think out loud, unedited and unapologetic."
+originalUrl: "https://whabook.blogspot.com/2008/10/kurianhe-plans-on-adopting-me.html"
+source: "blog"
+readTime: "4 min"
+penName: "Athul DeMarco"
+---
+
+Well, in the whole series of what people think of me, who better to tell the story than the person with whom I have been staying for more than a year and a half… Scroll down to find a touching, honest, can't really call it brutal take on me… 
+Arvind Chandrasekhar
+It took me a while to write this. But it was surely worth the time because the best things in life do not come fast and/ or free. Let me start with the bad stuff about Arvind, because, as I said, the best things in life do not come fast (and/ or free)
+There are times when I wished that we were not staying together. When I could not watch TV when I wanted to, when I could not get my clothes washed when I wanted to, when I wanted some peace and quiet etc. are instances of when 'Arvind the Menace' made me want to kill him. But life is always way more than some miserable moments.
+I don't know why he did not reconcile with a fellow Spartan for a long time, and finally spoke only when the latter moved away from Sparta, and the last I heard is that the poor ex-Spartan was taken captive last weekend. Why he does not close his door at night or make sure that we lock the front door after he leaves, still baffles me. Also amazing is the fact that while he does not go and get his own stuff, he does find the time, once in every sixty seconds, to remind us that we did not go and get his stuff for him.
+A thousand more of such reasons do exist but sometimes, in fact, always, I can confirm that life is way more than a thousand such miserable moments. Now is the part where Arvind is glad he got till here very fast. Now is the part where he licks his lips in anticipation. Now is the part, where you, Bowden, sit in your miserable little office, awaiting your punishment for making me write this diary.
+I learnt a lot from Arvind. Somehow I feel like they were over a million in number. Maybe it was because I always wanted a brother (and yeah, the best things in life do not…) or maybe it was because I could see myself in him. Brother, I had otherwise in Bachu and many others, but myself, I could see a little bit, only in him. 
+Having had a childhood, similar to mine, no matter what he does in and with his life, I will always be proud and supportive of him. Maybe I know only a little of what it was for like him, but since I come from that same background, everything burns! 
+He has made me laugh more than anybody else in the last 18 months. Somebody else I know has probably made me laugh more, but that was only for the last half year. His frantic antics, his childish and innocent ways, his linguistic fundas, his contagious laughter that may need over five minutes to stop, his quick and stupid questions, his attitude towards money, his relationship with his ex-husband Asif etc. are just the tip of the iceberg. Add to it, the way he tosses about in bed, making you scared and humored, all at the same time and you know that this package is alive around the clock.
+His sporty ways (he bowls well; haven't seen him bat much, but I saw enough to know that he bats well and his hoops went through the ring as well), his nocturnal style, his timely advice (though I do not agree with the lying bit) and our long meaningful conversations may have been instrumental in enjoying our time together. There is not a single movie that I have seen and he has not. His understanding of English songs blew me away every time. His passion in market research continues to impress me but not as much as his ability to bear with Murli. How he spends all night and dawn watching soaps and then getting up and reaching the office on time or just a little late is truly mind blowing. The songs he creates are chart busters in my industry, any day, every day. Band bajao, speed breaker etc. are some classics that will live for a century even after his death. 
+Surely his concept of faith and God needs correction, I feel, but then so does his smoking and drinking habits because otherwise he won't live that long. But then he feels that he is God and hence he will. Hence the contradiction and hence the need for correction, I feel. But his concept on women (and/ or inside them) is probably the biggest headliner and is probably, a book in itself.
+I am supposedly somebody who sells well or at least does a decent job at it. I hope you have been intrigued by what I wrote so far. Trust me; I just reached the end of Page 1 of this long honest thought on Arvind Chandrasekhar. But to read more from this source, Arvind will have to earn it from me. The trial version ends here and unlike WinRar, I'm not going to sit around and get cheated. Should you want to read on, please persuade Arvind to do the needful and I guarantee you that not only will it be worth your while, but also that it will take you a while to wipe the grin off your face when you are done reading my essay!
+Till then,
+From the Pacific ocean of thoughts, this is DJ Nairuk, signing off in style…
