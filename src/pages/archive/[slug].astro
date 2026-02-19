@@ -1,0 +1,128 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const categoryColors: Record<string, string> = {
+  fiction: 'bg-violet-500/20 text-violet-300 border-violet-500/30',
+  essay: 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30',
+  screenplay: 'bg-amber-500/20 text-amber-300 border-amber-500/30',
+  review: 'bg-blue-500/20 text-blue-300 border-blue-500/30',
+};
+---
+
+<Layout title={`${post.data.title} - Arvind Chandrashekar`} description={post.data.description}>
+
+  <!-- Back link -->
+  <section class="max-w-3xl mx-auto px-6 pt-20 pb-4">
+    <a href="/archive" class="text-zinc-500 hover:text-zinc-300 transition text-sm flex items-center gap-2">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+      </svg>
+      Back to Archive
+    </a>
+  </section>
+
+  <!-- Header -->
+  <header class="max-w-3xl mx-auto px-6 pb-8">
+    <div class="flex flex-wrap items-center gap-3 mb-4">
+      <span class:list={["text-xs px-2.5 py-1 rounded-full border font-medium", categoryColors[post.data.category] || 'bg-zinc-800 text-zinc-400 border-zinc-700']}>
+        {post.data.category}
+      </span>
+      <span class="text-sm text-zinc-500">
+        {new Date(post.data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+      </span>
+      {post.data.readTime && (
+        <span class="text-sm text-zinc-600">{post.data.readTime} read</span>
+      )}
+      {post.data.source === 'manuscript' && (
+        <span class="text-xs px-2 py-0.5 rounded-full bg-zinc-800 text-zinc-500 border border-zinc-700">
+          Previously Unpublished
+        </span>
+      )}
+    </div>
+
+    <h1 class="text-3xl md:text-4xl font-bold mb-4 tracking-tight">{post.data.title}</h1>
+
+    <p class="text-zinc-400 text-lg leading-relaxed mb-3">{post.data.description}</p>
+
+    <div class="flex flex-wrap gap-x-6 gap-y-2 text-sm">
+      <p class="text-zinc-500">
+        <span class="text-zinc-600 font-medium">Genre:</span> {post.data.genre}
+      </p>
+      {post.data.penName && (
+        <p class="text-zinc-500">
+          <span class="text-zinc-600 font-medium">By:</span> {post.data.penName}
+        </p>
+      )}
+    </div>
+
+    <p class="text-zinc-500 text-sm italic mt-2">{post.data.audience}</p>
+  </header>
+
+  <!-- Divider -->
+  <div class="max-w-3xl mx-auto px-6">
+    <div class="h-px bg-gradient-to-r from-transparent via-zinc-700 to-transparent"></div>
+  </div>
+
+  <!-- Content -->
+  <article class="max-w-3xl mx-auto px-6 py-12 prose prose-invert prose-zinc prose-lg
+    prose-headings:font-bold prose-headings:tracking-tight
+    prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-6
+    prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-4
+    prose-p:text-zinc-400 prose-p:leading-relaxed
+    prose-a:text-violet-400 prose-a:no-underline hover:prose-a:underline
+    prose-strong:text-zinc-200
+    prose-em:text-zinc-300
+    prose-blockquote:border-zinc-700 prose-blockquote:text-zinc-400
+    prose-hr:border-zinc-800
+    prose-li:text-zinc-400">
+    <Content />
+  </article>
+
+  <!-- Footer -->
+  <footer class="max-w-3xl mx-auto px-6 pb-20">
+    <div class="h-px bg-gradient-to-r from-transparent via-zinc-700 to-transparent mb-8"></div>
+    <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      {post.data.originalUrl && (
+        <a href={post.data.originalUrl} target="_blank" rel="noopener"
+           class="text-zinc-500 hover:text-zinc-300 transition text-sm flex items-center gap-2">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+          </svg>
+          View original on Blogspot
+        </a>
+      )}
+      <a href="/archive" class="text-zinc-500 hover:text-zinc-300 transition text-sm flex items-center gap-2">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Back to Archive
+      </a>
+    </div>
+  </footer>
+
+</Layout>
+
+<style>
+  /* Additional prose styling for the dark theme */
+  article :global(h2) {
+    color: #e4e4e7;
+  }
+  article :global(h3) {
+    color: #d4d4d8;
+  }
+  article :global(p) {
+    margin-bottom: 1.25rem;
+  }
+</style>

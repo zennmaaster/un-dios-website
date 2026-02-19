@@ -1,0 +1,116 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Contact - Arvind Chandrashekar" description="Get in touch with Arvind Chandrashekar.">
+
+  <section class="max-w-3xl mx-auto px-6 pt-20 pb-16">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4 tracking-tight">Get in Touch</h1>
+    <p class="text-xl text-zinc-400 leading-relaxed max-w-2xl">
+      I'm better in writing than in person anyway. Drop me a message and I'll get back to you.
+    </p>
+  </section>
+
+  <section class="max-w-3xl mx-auto px-6 pb-20">
+    <div class="grid md:grid-cols-3 gap-8">
+
+      <!-- Contact Form -->
+      <div class="md:col-span-2">
+        <form action="https://formsubmit.co/don.osiris@gmail.com" method="POST"
+              class="space-y-6">
+          <!-- FormSubmit config -->
+          <input type="hidden" name="_subject" value="New message from un-dios.com" />
+          <input type="hidden" name="_captcha" value="true" />
+          <input type="hidden" name="_next" value="https://un-dios.com/contact?sent=true" />
+          <input type="text" name="_honey" style="display:none" />
+
+          <div>
+            <label for="name" class="block text-sm font-medium text-zinc-400 mb-2">Name</label>
+            <input type="text" id="name" name="name" required
+                   class="w-full bg-zinc-900/60 border border-zinc-800 rounded-xl px-4 py-3 text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-zinc-600 focus:ring-1 focus:ring-zinc-600 transition" placeholder="Your name" />
+          </div>
+
+          <div>
+            <label for="email" class="block text-sm font-medium text-zinc-400 mb-2">Email</label>
+            <input type="email" id="email" name="email" required
+                   class="w-full bg-zinc-900/60 border border-zinc-800 rounded-xl px-4 py-3 text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-zinc-600 focus:ring-1 focus:ring-zinc-600 transition" placeholder="your@email.com" />
+          </div>
+
+          <div>
+            <label for="message" class="block text-sm font-medium text-zinc-400 mb-2">Message</label>
+            <textarea id="message" name="message" rows="6" required
+                      class="w-full bg-zinc-900/60 border border-zinc-800 rounded-xl px-4 py-3 text-zinc-100 placeholder-zinc-600 focus:outline-none focus:border-zinc-600 focus:ring-1 focus:ring-zinc-600 transition resize-none" placeholder="What's on your mind?"></textarea>
+          </div>
+
+          <button type="submit"
+                  class="bg-zinc-100 text-zinc-900 px-8 py-3 rounded-xl font-medium hover:bg-zinc-200 transition cursor-pointer">
+            Send Message
+          </button>
+        </form>
+      </div>
+
+      <!-- Sidebar -->
+      <div class="space-y-8">
+        <!-- LinkedIn -->
+        <div class="bg-zinc-900/40 border border-zinc-800 rounded-2xl p-6 backdrop-blur-sm">
+          <h3 class="text-sm font-medium text-zinc-500 uppercase tracking-wide mb-4">Connect</h3>
+          <a href="https://www.linkedin.com/in/acz532110/" target="_blank" rel="noopener"
+             class="flex items-center gap-3 text-zinc-300 hover:text-zinc-100 transition group">
+            <div class="w-10 h-10 rounded-lg bg-blue-500/10 border border-blue-500/20 flex items-center justify-center group-hover:bg-blue-500/20 transition">
+              <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+              </svg>
+            </div>
+            <div>
+              <p class="font-medium text-sm">LinkedIn</p>
+              <p class="text-xs text-zinc-500">Arvind Chandrashekar</p>
+            </div>
+          </a>
+        </div>
+
+        <!-- Other Links -->
+        <div class="bg-zinc-900/40 border border-zinc-800 rounded-2xl p-6 backdrop-blur-sm">
+          <h3 class="text-sm font-medium text-zinc-500 uppercase tracking-wide mb-4">Also Find Me On</h3>
+          <div class="space-y-4">
+            <a href="https://zennmaster.substack.com/" target="_blank" rel="noopener"
+               class="flex items-center gap-3 text-zinc-400 hover:text-zinc-200 transition text-sm">
+              <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+              Substack
+            </a>
+            <a href="https://github.com/zennmaaster" target="_blank" rel="noopener"
+               class="flex items-center gap-3 text-zinc-400 hover:text-zinc-200 transition text-sm">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+              GitHub
+            </a>
+          </div>
+        </div>
+
+        <!-- Note -->
+        <p class="text-zinc-600 text-xs italic px-1">
+          Your message goes directly to my inbox. No data stored on this site.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Success message (shown via URL param) -->
+  <script>
+    if (window.location.search.includes('sent=true')) {
+      const section = document.querySelector('form')?.parentElement;
+      if (section) {
+        section.innerHTML = `
+          <div class="bg-emerald-500/10 border border-emerald-500/30 rounded-2xl p-8 text-center">
+            <div class="w-12 h-12 rounded-full bg-emerald-500/20 flex items-center justify-center mx-auto mb-4">
+              <svg class="w-6 h-6 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+              </svg>
+            </div>
+            <h2 class="text-xl font-bold text-zinc-100 mb-2">Message Sent</h2>
+            <p class="text-zinc-400">Thanks for reaching out. I'll get back to you soon.</p>
+          </div>
+        `;
+      }
+    }
+  </script>
+
+</Layout>

@@ -1,0 +1,20 @@
+---
+title: "ADAM - Screenplay"
+date: "2012-01-01"
+category: "screenplay"
+description: "The screenplay adaptation of ADAM. Same existential questions, different medium. What works on stage becomes something more intimate on screen."
+genre: "Screenplay, Philosophical Drama"
+audience: "For screenwriting enthusiasts and anyone curious how the same story changes shape between stage and screen."
+source: "manuscript"
+readTime: "4 min"
+penName: "Athul DeMarco"
+---
+
+ADAM - SCREENPLAY
+Its morning again, I can hear the darned birds chirping outside, with my eyes still closed I can hear the ticking sound of the wall clock like the irritating sound of the water faucet dripping. The water faucet never drips in my house, because I don't like it dripping, like the way mom's head was dripping blood, and flooded the floor and spoiled the carpet. I like everything neat and clean.
+My name is Adam. I study in the 7 th grade. And I like my school. My favorite subject is math. I don't understand why people don't like math. I see star world in the evening and people are always saying lame ass jokes about them sucking at numbers. I love my math teacher,her name is Sandra Miss I dont know her last name guess its Miss.We all call her Sandra Miss. She is funny and she reminds of my mother. I like Sandra Miss because she likes me, she thinks am smart. And I like it when she kisses me on my cheek, esp when I solve some of the questions she gives only to me. She always gives me questions to solve and only me. And all her questions she tells me are named after old men who thought of all these questions and then they died trying to solve it, which I find really funny. She gave me today some old man's problem called the Fermat's theorem.
+My mother died when I was 9 years old. My dad hit her in the not so good drunken moods and she fell. And then she died. My dad did not tell me anything and I understood that am supposed to act like Gandhi's monkey. I always wanted to ask this question to Sandra Miss . I wanted to ask her, why the monkey uses 2 hands to cover one part of their body. Doesn't make a good ratio. What it should look like is 2 monkeys one covering its eyes and mouth and the other covering its ears.
+The model monkey would be me. And the monkey covering my ears would be my father. What I really love about this picture is that the father monkey is not drinking. I find old people to be so damn funny. And i find them even more funny especially when they cry. Everybody cried at the hospital that day. I could draw graphs for all the different frequencies they were crying in my head for each person.
+My favorite sport is chess. I think I can beat Kasporav. And I also think that he is highly over-rated. But my best friend Anita doesn't think so. She thinks I will lose so badly that I will never want to play chess again. But that's why I like Anita, she can be so stupid at times. She told me about this funny video, her mum hides and keeps in her computer system where women are naked and are making funny noises. She and me tried making those sounds but she sounded better than me, maybe she practices them before she goes to sleep, she denied it but I still have my doubts. She is my class-mate and my bench-mate. And whenever she forgets to get me lunch we fight and divide our bench in to a Indo-Pak war zone. But she is funny and teaches me all the bad words her parents call each other. Her favorite swear word is bitch, she told me that this is what her mum calls her grandmother.
+After i come back from school, I go and play till my father comes back home I rush back home and sit in front of the TV. After dad makes dinner its his turn to watch TV and he asks me to go to my room. On some days dad watches something on tv which I think is something like the funny video Anita's mum watches. I try to sneak a peek. But I can't really see anything, except for the blue light.
+So I try and solve the problem Sandra Miss gave me. Its pretty simple actually. I rewrite everything because Sandra Miss can't understand my handwriting, and I draw lines and all. And then I go to sleep, hoping that those darned birds don't wake me up again.
