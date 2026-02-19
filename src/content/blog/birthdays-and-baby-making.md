@@ -1,10 +1,10 @@
 ---
 title: "Birthdays and Baby-Making"
 date: "2007-12-01"
-category: "essay"
-description: "Have you noticed that there are bunch of times when you are just flooded with birthdays of people you know in the year. The most prominent ones are in the Nov-Dec period, last week 2 weeks of November and first week of Dec, and a similar occurrenc..."
+category: "humor"
+description: "Have you noticed that there are bunch of times when you are just flooded with birthdays of people you know in the year."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/12/birthdays-and-baby-making.html"
 source: "blog"
 readTime: "1 min"

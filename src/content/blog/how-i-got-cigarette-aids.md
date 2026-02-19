@@ -1,8 +1,8 @@
 ---
 title: "How i Got Cigarette Aids!!!"
 date: "2007-08-01"
-category: "essay"
-description: "No seriously. The present awesomely sick physical state am in is what I call as Cigarette Aids."
+category: "personal"
+description: "The present awesomely sick physical state am in is what I call as Cigarette Aids. But the symptoms are totally different."
 genre: "Addiction"
 audience: "For people who have loved something that was slowly killing them."
 originalUrl: "https://whabook.blogspot.com/2007/08/how-i-got-cigarette-aids.html"

@@ -1,10 +1,10 @@
 ---
 title: "A lot of first’s this weekend"
 date: "2009-08-01"
-category: "essay"
+category: "personal"
 description: "As you grow old there are a lot of things you can knock of your bucket list. Well even though there are not things to look forward in life you know with the rising debts and no means of clearing them up, life has a way of throwing you a bone now a..."
-genre: "Personal Essay"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2009/08/lot-of-firsts-this-weekend.html"
 source: "blog"
 readTime: "1 min"

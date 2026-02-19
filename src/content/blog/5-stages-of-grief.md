@@ -1,10 +1,10 @@
 ---
 title: "5 stages of grief"
 date: "2007-12-01"
-category: "essay"
+category: "personal"
 description: "Grief is a somewhat complicated and misunderstood emotion. Yet, grief is something that, unfortunately, we must all experience at some time or other."
-genre: "List, Blog Tag"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+genre: "Grief"
+audience: "For people who have lost someone and don't want to be told it gets better."
 originalUrl: "https://whabook.blogspot.com/2007/12/5-stages-of-grief.html"
 source: "blog"
 readTime: "3 min"

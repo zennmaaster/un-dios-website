@@ -1,10 +1,10 @@
 ---
 title: "Typical 4 a.m drunk rant."
 date: "2010-11-01"
-category: "essay"
+category: "opinion"
 description: "You know the times when you realize that you are an emotional fool? A blithering, slobbering savant who has had a pineapple shoved forcefully down his bottom?"
-genre: "Personal Essay"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Opinion"
+audience: "For people who enjoy watching someone say the quiet part loud."
 originalUrl: "https://whabook.blogspot.com/2010/11/typical-4-am-drunk-rant.html"
 source: "blog"
 readTime: "1 min"

@@ -1,10 +1,10 @@
 ---
 title: "Silence"
 date: "2008-05-01"
-category: "essay"
+category: "humor"
 description: "All of these moments where silence is all you get to hear, will tell you the story of who I am, the stories of what I have felt, the hurt, the joys, the laugh, the cries, so many stories, each one of them being spoken as I keep silent, as I look i..."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/05/silence.html"
 source: "blog"
 readTime: "2 min"

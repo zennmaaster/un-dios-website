@@ -1,10 +1,10 @@
 ---
 title: "Things I want to talk about, But… I can’t!"
 date: "2008-05-01"
-category: "essay"
+category: "list"
 description: "I don't I started writing something, but I have erased it all, because somewhere things jus did not sound right you know, I mean I want to talk about M, and how in some weird ass way I yearn for that comfort feeling of having somebody I can call a..."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/05/things-i-want-to-talk-about-but-i-cant.html"
 source: "blog"
 readTime: "3 min"

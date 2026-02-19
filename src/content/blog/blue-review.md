@@ -2,7 +2,7 @@
 title: "Blue - Review"
 date: "2009-10-01"
 category: "review"
-description: "Now I have never been known to review a movie in a separate blog post altogether which I don't end up recommending and raving about for weeks and months on end. But I think, 'Blue' will have to buck this tradition."
+description: "Now I have never been known to review a movie in a separate blog post altogether which I don't end up recommending and raving about for weeks and months on end."
 genre: "Film Review"
 audience: "For people who want opinions served with personality, not objectivity."
 originalUrl: "https://whabook.blogspot.com/2009/10/blue-review.html"

@@ -1,10 +1,10 @@
 ---
 title: "Mind it."
 date: "2007-11-01"
-category: "essay"
-description: "' itni shiddat se maine tumhe paane ki koshish ki hai ki har zarre ne mujhe tumse milane ki koshish ki hai....kehte hai agar kisi cheez ko dil se chaaho toh poori kaynath tumhein usse milane ki koshish mein lag jaati hai...aap sabne mujhe meri cha..."
+category: "humor"
+description: "' itni shiddat se maine tumhe paane ki koshish ki hai ki har zarre ne mujhe tumse milane ki koshish ki hai....kehte hai agar kisi cheez ko dil se chaaho toh poori kaynath tumhein usse milane ki koshish mein lag jaati hai..."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/11/mind-it.html"
 source: "blog"
 readTime: "4 min"

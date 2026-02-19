@@ -1,7 +1,7 @@
 ---
 title: "Hearts Locked in a Gran Torino"
 date: "2009-04-01"
-category: "essay"
+category: "personal"
 description: "Well, think my quest for a character finally gets appeased. Not by some 20 – 30 year old idealist trying to fight the system, but by a 78 year old man who still has you thinking he has not changed for the last 30 – 40 years."
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."

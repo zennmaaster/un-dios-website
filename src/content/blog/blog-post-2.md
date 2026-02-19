@@ -1,10 +1,10 @@
 ---
 title: "=|"
 date: "2014-01-01"
-category: "essay"
+category: "humor"
 description: "I had just poured myself a cup of coffee. My first and only cup of coffee."
-genre: "Personal Essay"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Humor"
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2014/01/blog-post.html"
 source: "blog"
 readTime: "3 min"

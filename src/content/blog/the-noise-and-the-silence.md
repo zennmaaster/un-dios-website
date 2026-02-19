@@ -1,10 +1,10 @@
 ---
 title: "The Noise and the Silence!!!"
 date: "2008-05-01"
-category: "essay"
+category: "humor"
 description: "I've been thinking a lot about silence lately, ever since someone told me that I am insecure in the quietness of life. Funny, because I always thought I cherished the in-betweens, thriving taking a step back to acknowledge, observe and imagine."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/05/noise-and-silence.html"
 source: "blog"
 readTime: "2 min"

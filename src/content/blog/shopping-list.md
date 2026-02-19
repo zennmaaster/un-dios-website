@@ -1,10 +1,10 @@
 ---
 title: "Shopping List"
 date: "2008-01-01"
-category: "essay"
-description: "list of things i need to get     1. aviators (yes my cherished ones, i broke them, not suprised there)  2.zippo  3."
+category: "list"
+description: "list of things i need to get 1. What follows is a list that starts reasonable and quickly stops being one."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/01/shopping-list.html"
 source: "blog"
 readTime: "1 min"

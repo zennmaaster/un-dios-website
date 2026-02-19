@@ -1,10 +1,10 @@
 ---
 title: "100 things one must do before one dies!"
 date: "2008-08-01"
-category: "essay"
+category: "personal"
 description: "Well, the guy who wrote that book and the guy who came on Oprah died at the age of 47. So, just wanted to check how many I can cross off this list of 100 things."
-genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/08/100-things-one-must-do-before-one-dies.html"
 source: "blog"
 readTime: "4 min"

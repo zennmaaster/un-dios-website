@@ -1,10 +1,10 @@
 ---
 title: "10 things that makes blokes cry"
 date: "2008-08-01"
-category: "essay"
-description: "I was reading BBC news online when I came across THIS article. Now a lot of the reasons fit perfectly with the male stereotype, I thought I should pen down my own reactions to the reasons listed."
+category: "list"
+description: "I was reading BBC news online when I came across THIS article. A 10-item list that tells you as much about the writer as the subject."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/08/10-things-that-makes-blokes-cry_04.html"
 source: "blog"
 readTime: "3 min"

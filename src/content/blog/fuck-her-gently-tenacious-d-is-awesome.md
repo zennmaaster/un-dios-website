@@ -1,10 +1,10 @@
 ---
 title: "Fuck her gently! - Tenacious D is AWESOME !"
 date: "2007-08-01"
-category: "essay"
+category: "poetry"
 description: "A lot of you people will find this video and the lyrics not upto to your sense and sensibilities. But does it really look like I give a fuck about it."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Poetry"
+audience: "For people who think in line breaks."
 originalUrl: "https://whabook.blogspot.com/2007/08/fuck-her-gently-tenacious-d-is-awesome.html"
 source: "blog"
 readTime: "1 min"

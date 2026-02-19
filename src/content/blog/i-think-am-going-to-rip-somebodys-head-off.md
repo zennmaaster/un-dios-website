@@ -1,10 +1,10 @@
 ---
 title: "I think am going to rip somebody’s head off!"
 date: "2008-08-01"
-category: "essay"
+category: "humor"
 description: "I really don't understand couple of things with regards to people. Why is it that people think it is fucking hilarious to instigate me just to get a reaction out, not about frivolous trivial, shit like world peace when one is staying in a well fur..."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/08/i-think-am-going-to-rip-somebodys-head.html"
 source: "blog"
 readTime: "2 min"

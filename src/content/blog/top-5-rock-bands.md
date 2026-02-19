@@ -1,10 +1,10 @@
 ---
 title: "Top 5 Rock Bands."
 date: "2007-09-01"
-category: "essay"
-description: "This is my all time Top 5 rock Bands. Its me list."
+category: "list"
+description: "5 items on the list. Starting with 'Metallica (thank.) : It was by far the biggest band to have ' and going from there. A numbered inventory of opinions from a time when blogs were the only place to put them."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2007/09/top-5-rock-bands.html"
 source: "blog"
 readTime: "1 min"

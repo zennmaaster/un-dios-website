@@ -1,8 +1,8 @@
 ---
 title: "I love you!"
 date: "2008-07-01"
-category: "essay"
-description: "I love you Dr. You are the greatest super villain of all!"
+category: "personal"
+description: "You are the greatest super villain of all!"
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."
 originalUrl: "https://whabook.blogspot.com/2008/07/i-love-you.html"

@@ -1,10 +1,10 @@
 ---
 title: "10 Signs am Growing Old..."
 date: "2007-03-01"
-category: "essay"
-description: "True am not that conventionally old, but I think old age is setting in, how am i saying such an absurd thing, well for starters:  1. I don't feel like getting up in the morning and playing basketball like the way i used in school and college."
+category: "list"
+description: "10 items on the list. Starting with 'I don't feel like getting up in the morning and playing bask' and going from there. A numbered inventory of opinions from a time when blogs were the only place to put them."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2007/03/10-signs-am-growing-old.html"
 source: "blog"
 readTime: "2 min"

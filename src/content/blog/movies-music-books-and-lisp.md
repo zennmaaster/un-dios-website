@@ -1,10 +1,10 @@
 ---
 title: "Movies, Music, Books and Lisp"
 date: "2011-04-01"
-category: "essay"
+category: "review"
 description: "I woke up about an hour back and decided that today is a good day to make a podcast. Even though I am not in the best of the moods courtesy crazy unreasonable woman."
-genre: "Review"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Film Review"
+audience: "For people who want opinions served with personality, not objectivity."
 originalUrl: "https://whabook.blogspot.com/2011/04/movies-music-books-and-lisp.html"
 source: "blog"
 readTime: "1 min"

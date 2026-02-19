@@ -1,10 +1,10 @@
 ---
 title: "Constipation..."
 date: "2007-01-01"
-category: "essay"
-description: "Ok before i begin to describe the shitty feeling of being constipated i just wanna say that am feeling shitty at the moment and i wanna write something funny to divert my mind from the harsh realites of life. ( I think all funny people do that, ev..."
+category: "humor"
+description: "Ok before i begin to describe the shitty feeling of being constipated i just wanna say that am feeling shitty at the moment and i wanna write something funny to divert my mind from the harsh realites of life."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/01/constipation.html"
 source: "blog"
 readTime: "3 min"

@@ -1,10 +1,10 @@
 ---
 title: "Women and Secrets...."
 date: "2007-01-01"
-category: "essay"
+category: "humor"
 description: "Funny aint it... I mean women and secrets they are like black and white, ying and yang."
-genre: "Humor, Relationships"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+genre: "Humor"
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/01/women-and-secrets.html"
 source: "blog"
 readTime: "2 min"

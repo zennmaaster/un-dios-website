@@ -1,10 +1,10 @@
 ---
 title: "Ghosts of my embarrassing past!"
 date: "2007-04-01"
-category: "essay"
+category: "personal"
 description: "Disclaimer: Its ok, if you begin to think am a pansy fucker after this post. Don't really give a fuck."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2007/04/ghosts-of-my-embarrassing-past.html"
 source: "blog"
 readTime: "3 min"

@@ -1,10 +1,10 @@
 ---
 title: "This trip’s playlist"
 date: "2008-08-01"
-category: "essay"
+category: "poetry"
 description: "Well, equipping myself for a trip requires me to make sure that I take the following things along Clean shirts, iron them (hate feeling sweaty and stinky) and hope that a cute girl sits next to me Toothbrush Deo (the most important thing) Boxers (..."
-genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+genre: "Poetry"
+audience: "For people who think in line breaks."
 originalUrl: "https://whabook.blogspot.com/2008/08/this-trips-playlist.html"
 source: "blog"
 readTime: "1 min"

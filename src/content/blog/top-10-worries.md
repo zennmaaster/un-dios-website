@@ -1,10 +1,10 @@
 ---
 title: "Top 10 Worries…"
 date: "2008-06-01"
-category: "essay"
-description: "Its 5:27 AM. I just finished Chetan Bhagat's latest book called 'the 3 mistakes of my life', and knowing the Indian consumer this too shall climb the best seller list, not good as 5 point someone, not bad as one night at the call centre."
+category: "list"
+description: "I just finished Chetan Bhagat's latest book called 'the 3 mistakes of my life', and knowing the Indian consumer this too shall climb the best seller list, not good as 5 point someone, not bad as one night at the call centre."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/06/top-10-worries.html"
 source: "blog"
 readTime: "5 min"

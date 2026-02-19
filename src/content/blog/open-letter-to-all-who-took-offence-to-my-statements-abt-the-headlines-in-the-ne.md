@@ -1,7 +1,7 @@
 ---
 title: "Open Letter to All who Took offence to my statements abt the headlines in the newspaper...."
 date: "2008-01-01"
-category: "essay"
+category: "opinion"
 description: "women women women... ever given a thought, as to how certain things can be taken out of context but should not be done so?"
 genre: "Open Letter"
 audience: "For people who enjoy watching someone say the quiet part loud."

@@ -1,9 +1,9 @@
 ---
 title: "My Brother is Gay"
 date: "2008-02-01"
-category: "essay"
-description: "or so I thought. But turns out the slimy little chuth actually likes women."
-genre: "Family"
+category: "personal"
+description: "My brother is gay or so I thought. But turns out the slimy little chuth actually likes women."
+genre: "Personal, Family"
 audience: "For people who understand that family is both the wound and the bandage."
 originalUrl: "https://whabook.blogspot.com/2008/02/my-brother-is-gay.html"
 source: "blog"

@@ -1,10 +1,10 @@
 ---
 title: "Confessions"
 date: "2008-04-01"
-category: "essay"
+category: "personal"
 description: "I feel like I'm faking being normal. Before I make decisions, I think about every possible outcome in vivid detail."
-genre: "Personal Essay"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/04/confessions.html"
 source: "blog"
 readTime: "2 min"

@@ -1,10 +1,10 @@
 ---
 title: "The Things That Define Me..."
 date: "2007-03-01"
-category: "essay"
+category: "list"
 description: "There are a lot of things people think define, it ranges from the latest handset they carry around, or the amount of horse power one has under the hood, or the explosion of pink for some ladies or anything chocolatey in that manner, seems to defin..."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2007/03/things-that-define-me.html"
 source: "blog"
 readTime: "3 min"

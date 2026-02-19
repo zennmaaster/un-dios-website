@@ -1,10 +1,10 @@
 ---
 title: "Comedy story???"
 date: "2007-04-01"
-category: "essay"
+category: "humor"
 description: "Jesus people somebody requested me to write a comic story. Now thats funny enough."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/04/comedy-story.html"
 source: "blog"
 readTime: "1 min"

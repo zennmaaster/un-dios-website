@@ -1,10 +1,10 @@
 ---
 title: "New Signs... For Urinals!"
 date: "2007-04-01"
-category: "essay"
-description: "Yes, my fascination with loo's and shit still continues. =)  I was just wondering the futility of bathroom signs."
+category: "list"
+description: "Yes, my fascination with loo's and shit still continues. What follows is a list that starts reasonable and quickly stops being one."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2007/04/new-signs-for-urinals.html"
 source: "blog"
 readTime: "1 min"

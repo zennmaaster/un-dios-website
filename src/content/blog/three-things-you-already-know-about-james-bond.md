@@ -1,10 +1,10 @@
 ---
 title: "Three things you already know about James Bond"
 date: "2008-11-01"
-category: "essay"
-description: "I have paid to see exactly one James Bond film: 1987's The Living Daylights, a project that starred Timothy Dalton and involved a highly sexualized female cellist. This, of course, does not mean I'm unfamiliar with the other nineteen movies; I've ..."
+category: "list"
+description: "I have paid to see exactly one James Bond film: 1987's The Living Daylights, a project that starred Timothy Dalton and involved a highly sexualized female cellist. What follows is a list that starts reasonable and quickly stops being one."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/11/three-things-you-already-know-about.html"
 source: "blog"
 readTime: "5 min"

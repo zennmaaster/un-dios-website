@@ -1,10 +1,10 @@
 ---
 title: "Things in the last week"
 date: "2008-11-01"
-category: "essay"
-description: "For which I have said 'This is so going in my blog'  Well I just realized as to why I like some women better than the rest (I love all women, just not the same) – It has a name – 'Woo Girl' effect. Women on the lower rungs of being a Woo Girl are ..."
+category: "list"
+description: "For which I have said 'This is so going in my blog' Well I just realized as to why I like some women better than the rest (I love all women, just not the same) – It has a name – 'Woo Girl' effect."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/11/things-in-last-week.html"
 source: "blog"
 readTime: "3 min"

@@ -1,10 +1,10 @@
 ---
 title: "Things which I never understood"
 date: "2009-04-01"
-category: "essay"
-description: "And in all probability things which I will never understand, I believe when questions are asked such as the ones listed below the look on face is the same as the one on a baboon's when asked to solve a quadratic equation. These are questions which..."
+category: "list"
+description: "And in all probability things which I will never understand, I believe when questions are asked such as the ones listed below the look on face is the same as the one on a baboon's when asked to solve a quadratic equation."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2009/04/things-which-i-never-understood.html"
 source: "blog"
 readTime: "2 min"

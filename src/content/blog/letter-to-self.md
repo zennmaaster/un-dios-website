@@ -1,10 +1,10 @@
 ---
 title: "Letter to self…"
 date: "2008-07-01"
-category: "essay"
+category: "personal"
 description: "So, first round of exams are done, did pretty decently. Should score pretty good, not worried about, have to pull out the schedule for the next batch of exams, and just finished celebrating first round of celebrations."
-genre: "Open Letter"
-audience: "For people who enjoy watching someone say the quiet part loud."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/07/letter-to-self.html"
 source: "blog"
 readTime: "1 min"

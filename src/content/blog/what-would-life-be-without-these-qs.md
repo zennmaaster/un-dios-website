@@ -1,10 +1,10 @@
 ---
 title: "What would life be without these Q's?"
 date: "2008-01-01"
-category: "essay"
+category: "personal"
 description: "What does one do when life throws you the option of taking the safer option or to gamble everything you have? What does one do when the stakes are high and are dealing with respect, ego and love?"
-genre: "Personal Essay"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/01/what-would-life-be-without-these-qs.html"
 source: "blog"
 readTime: "1 min"

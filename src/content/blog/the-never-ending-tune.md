@@ -1,10 +1,10 @@
 ---
 title: "The never ending tune"
 date: "2011-04-01"
-category: "essay"
-description: "The wind was in a playful mood that day, as it mischievously lifted girl's skirts up, played catch with little boys' caps and old men's toupees. Chris just sat there watching kids run and laugh as they chased plastic candy wrappers, sometimes with..."
+category: "humor"
+description: "The wind was in a playful mood that day, as it mischievously lifted girl's skirts up, played catch with little boys' caps and old men's toupees."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2011/04/never-ending-tune.html"
 source: "blog"
 readTime: "2 min"

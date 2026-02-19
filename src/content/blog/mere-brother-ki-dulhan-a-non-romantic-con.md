@@ -1,9 +1,9 @@
 ---
 title: "Mere Brother Ki Dulhan – A non romantic con"
 date: "2011-09-01"
-category: "essay"
-description: "Normal   0               false   false   false      EN-US   X-NONE   X-NONE                                                     MicrosoftInternetExplorer4                                                                                             ..."
-genre: "Family"
+category: "poetry"
+description: "Directed by first time director Ali Abbas Zafar and produced by Yash Raj Films, Mere Brother Ki Dulhan is a take on the age old bollywood formula of love triangles. We have been conditioned to foresee the end even before we step into the theater."
+genre: "Poetry, Family"
 audience: "For people who understand that family is both the wound and the bandage."
 originalUrl: "https://whabook.blogspot.com/2011/09/mere-brother-ki-dulhan-non-romantic-con.html"
 source: "blog"

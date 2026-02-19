@@ -1,9 +1,9 @@
 ---
 title: "Love Affair With The Cancer Stick"
 date: "2007-01-01"
-category: "essay"
+category: "personal"
 description: "Well the picture says it all doesn it. My love affair with the cancer stick started in december 01, and it has continued till now, and i loved every single moment i spent with it."
-genre: "Relationships, Addiction"
+genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."
 originalUrl: "https://whabook.blogspot.com/2007/01/love-affair-with-cancer-stick.html"
 source: "blog"

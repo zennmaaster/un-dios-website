@@ -1,10 +1,10 @@
 ---
 title: "Have you ever?"
 date: "2007-07-01"
-category: "essay"
+category: "humor"
 description: "Have you ever felt lonely in a crowded room? Or felt like breaking down but couldn't because there are people around you?"
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/07/have-you-ever.html"
 source: "blog"
 readTime: "1 min"

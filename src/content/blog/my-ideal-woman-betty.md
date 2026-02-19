@@ -1,7 +1,7 @@
 ---
 title: "My Ideal Woman... Betty"
 date: "2007-01-01"
-category: "essay"
+category: "personal"
 description: "Well i know Betty from Archie's is ideal woman not just for me but for millions of nice guys out there who grew up reading about archie and his stupid antic's ( Ok there will be a section in the audience who will wanna counter me on being a nice g..."
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."

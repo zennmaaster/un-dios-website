@@ -1,10 +1,10 @@
 ---
 title: "Things which I realized..."
 date: "2007-12-01"
-category: "essay"
-description: "Things which I realized drunk out of my head 0430 hrs in the morning. I ask a lot of questions, and I brain fuck myself."
+category: "list"
+description: "9 items on the list. Starting with 'I ask a lot of questions, and I brain fuck myself.' and going from there. A numbered inventory of opinions from a time when blogs were the only place to put them."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2007/12/things-which-i-realized.html"
 source: "blog"
 readTime: "1 min"

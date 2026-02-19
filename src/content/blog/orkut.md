@@ -1,10 +1,10 @@
 ---
 title: "Orkut..."
 date: "2007-04-01"
-category: "essay"
+category: "humor"
 description: "I have been told that there does exist a funny bone in my body, and it lies below my belt. Anyway for all the people who seriously don find any work to do, or generally don treat work as god ( fine, i agree not everybody can be me, but still..."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2007/04/orkut.html"
 source: "blog"
 readTime: "3 min"

@@ -1,10 +1,10 @@
 ---
 title: "Things I have learned since I got published"
 date: "2014-04-01"
-category: "essay"
-description: "The story about quibbling, quarreling conjoined twins titled ‘An.Al – The Origins’ hit bookshelves sometime last August, 2013. Soon it will be an entire year since the book came out."
+category: "list"
+description: "The story about quibbling, quarreling conjoined twins titled ‘An.Al – The Origins’ hit bookshelves sometime last August, 2013. What follows is a list that starts reasonable and quickly stops being one."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2014/04/things-i-have-learned-since-i-got.html"
 source: "blog"
 readTime: "3 min"

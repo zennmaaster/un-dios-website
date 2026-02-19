@@ -1,10 +1,10 @@
 ---
 title: "Hindi Movies..."
 date: "2007-04-01"
-category: "essay"
+category: "review"
 description: "I don't understand peoples growing disinterest in hindi movies, I mean they are being looked upon as something cheap and prefer artsy movies or english movies. I mean cmon gimme a break."
-genre: "Review"
-audience: "For people who like reading someone think out loud, unedited and unapologetic."
+genre: "Film Review"
+audience: "For people who want opinions served with personality, not objectivity."
 originalUrl: "https://whabook.blogspot.com/2007/04/hindi-movies.html"
 source: "blog"
 readTime: "3 min"

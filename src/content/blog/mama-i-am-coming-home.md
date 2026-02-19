@@ -1,10 +1,10 @@
 ---
 title: "Mama I am coming home"
 date: "2009-07-01"
-category: "essay"
+category: "humor"
 description: "So, after nearly close to 2 years, I am going back home. The reasons are just too hard for me to ignore anymore."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2009/07/mama-i-am-coming-home.html"
 source: "blog"
 readTime: "1 min"

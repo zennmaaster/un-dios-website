@@ -1,10 +1,10 @@
 ---
 title: "Hotel California"
 date: "2010-04-01"
-category: "essay"
+category: "humor"
 description: "The walk around the garden hasn't helped me one bit. Maybe I should open that bottle of beer."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2010/04/hotel-california.html"
 source: "blog"
 readTime: "2 min"

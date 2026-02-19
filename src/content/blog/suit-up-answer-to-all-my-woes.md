@@ -1,10 +1,10 @@
 ---
 title: "SUIT UP... Answer to all my woes...."
 date: "2007-08-01"
-category: "essay"
+category: "personal"
 description: "Anyway I was trying to get over one single girl ( yes. you heard that right."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2007/08/suit-up-answer-to-all-my-woes.html"
 source: "blog"
 readTime: "2 min"

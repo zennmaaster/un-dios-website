@@ -1,10 +1,10 @@
 ---
 title: "Sheila and Zenny (TRY to) make a podcast"
 date: "2010-07-01"
-category: "essay"
+category: "humor"
 description: "So considering how disastrous my first two attempts at podcasting were. I managed to convince Sheila to lend me a helping hand."
-genre: "Humor, Podcast"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+genre: "Humor"
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2010/07/sheila-and-zenny-try-to-make-podcast.html"
 source: "blog"
 readTime: "1 min"

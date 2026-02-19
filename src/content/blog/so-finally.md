@@ -1,10 +1,10 @@
 ---
 title: "So finally…"
 date: "2008-09-01"
-category: "essay"
-description: "Finally, I have found the perfect thing which will start me off on something which I intend to finish before am 25 years old. Finish writing my memoirs, and for long I have always been stuck with the question, how the fuck should I begin the book ..."
+category: "humor"
+description: "Finally, I have found the perfect thing which will start me off on something which I intend to finish before am 25 years old."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/09/so-finally.html"
 source: "blog"
 readTime: "4 min"

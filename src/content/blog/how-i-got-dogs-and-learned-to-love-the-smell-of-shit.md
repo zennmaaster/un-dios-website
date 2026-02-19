@@ -1,8 +1,8 @@
 ---
 title: "How I got dogs and learned to love the smell of shit"
 date: "2014-12-01"
-category: "essay"
-description: "Once upon a time…  By that I mean a couple of years back. When I was still single and so were my friends."
+category: "personal"
+description: "Once upon a time… By that I mean a couple of years back. When I was still single and so were my friends."
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."
 originalUrl: "https://whabook.blogspot.com/2014/12/how-i-got-dogs-and-learned-to-love-to.html"

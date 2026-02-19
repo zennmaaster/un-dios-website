@@ -1,10 +1,10 @@
 ---
 title: "Couple of Things...!!!"
 date: "2008-01-01"
-category: "essay"
-description: "First of all, I would like to confess that am doing something which am not too proud of... am doing something which metro-sexual men would do and  I don like it..."
+category: "list"
+description: "First of all, I would like to confess that am doing something which am not too proud of... What follows is a list that starts reasonable and quickly stops being one."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2008/01/couple-of-things.html"
 source: "blog"
 readTime: "3 min"

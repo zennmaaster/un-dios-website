@@ -1,10 +1,10 @@
 ---
 title: "What qualities would you seek in the Ideal Leader of India?"
 date: "2007-08-01"
-category: "essay"
+category: "opinion"
 description: "Well am presuming that before he/she being looked upon as an ideal leader we assume that he/she is a ideal human being too. Ignoring all the presumptions and assumptions."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Social Commentary"
+audience: "For people who think about what India could be, not just what it is."
 originalUrl: "https://whabook.blogspot.com/2007/08/what-qualities-would-you-seek-in-ideal.html"
 source: "blog"
 readTime: "1 min"

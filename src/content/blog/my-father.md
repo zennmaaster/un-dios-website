@@ -1,9 +1,9 @@
 ---
 title: "My Father..."
 date: "2007-01-01"
-category: "essay"
-description: "Everybody who has a father (who has been present thru their formative years), knows his importance in shaping his/her perspective on everything. Well i wouldn know what it is to have a father who tells you what is right or wrong."
-genre: "Family"
+category: "personal"
+description: "Everybody who has a father (who has been present thru their formative years), knows his importance in shaping his/her perspective on everything."
+genre: "Personal, Family"
 audience: "For people who understand that family is both the wound and the bandage."
 originalUrl: "https://whabook.blogspot.com/2007/01/my-father.html"
 source: "blog"

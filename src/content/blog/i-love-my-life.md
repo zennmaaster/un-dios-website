@@ -1,8 +1,8 @@
 ---
 title: "I love my life!!!"
 date: "2008-08-01"
-category: "essay"
-description: "Just yesterday I was talking with this friend of mine who is eagerly his graduation in about 2 days time (congratulations bitch!). He and I had a lot to catch up on, and I suddenly realized the sorry past I had and how I was never like the way I am."
+category: "personal"
+description: "Just yesterday I was talking with this friend of mine who is eagerly his graduation in about 2 days time (congratulations bitch!). And I realized how embarrassing and humiliating the past couple of years have been for me."
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."
 originalUrl: "https://whabook.blogspot.com/2008/08/i-love-my-life.html"

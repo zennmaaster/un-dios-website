@@ -1,7 +1,7 @@
 ---
 title: "Wifi, Mosquitoes, Sleep... Let the good times roll ! ! !"
 date: "2008-04-01"
-category: "essay"
+category: "personal"
 description: "So I finally moved into my new place. Followed by the mourning of Kolkata Knight riders first loss in IPL."
 genre: "Addiction"
 audience: "For people who have loved something that was slowly killing them."

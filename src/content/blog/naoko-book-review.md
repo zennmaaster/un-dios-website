@@ -2,7 +2,7 @@
 title: "Naoko - Book review"
 date: "2012-10-01"
 category: "review"
-description: "** SPOILER ALERT **  For starters, I am not sure what the blurb writer found funny in this story. The story wasn't funny."
+description: "** SPOILER ALERT ** For starters, I am not sure what the blurb writer found funny in this story. The story wasn't funny."
 genre: "Book Review"
 audience: "For people who want opinions served with personality, not objectivity."
 originalUrl: "https://whabook.blogspot.com/2012/10/naoko-book-review.html"

@@ -1,10 +1,10 @@
 ---
 title: "I am just a Kid."
 date: "2008-01-01"
-category: "essay"
+category: "personal"
 description: "I love the commute I take every morning from home to office everyday morning. Switch on the radio and begin contemplating."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/01/i-am-just-kid.html"
 source: "blog"
 readTime: "4 min"

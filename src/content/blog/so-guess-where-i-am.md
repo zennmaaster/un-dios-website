@@ -1,10 +1,10 @@
 ---
 title: "So guess where I am?"
 date: "2008-08-01"
-category: "essay"
+category: "personal"
 description: "Back at the airport, there is something about this airport which just makes me write, about what? I really don't have a bleeding clue, but still it's nice to take out your laptop and pretend that you got shit loads of work to do and shit."
-genre: "Personal Essay, Unfiltered"
-audience: "For people who appreciate honesty that has not been run through a PR filter."
+genre: "Personal"
+audience: "For people who appreciate honesty that hasn't been run through a PR filter."
 originalUrl: "https://whabook.blogspot.com/2008/08/so-guess-where-i-am.html"
 source: "blog"
 readTime: "5 min"

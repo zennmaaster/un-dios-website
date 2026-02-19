@@ -1,10 +1,10 @@
 ---
 title: "My biggest insecurity"
 date: "2008-11-01"
-category: "essay"
+category: "humor"
 description: "Now, I think this was right about in the middle of 7th grade, right after the summer hols. I remember vividly, the first day back in school and almost everybody asked me what was wrong with my voice, and the numbers definitely tilted towards girls..."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/11/my-biggest-insecurity.html"
 source: "blog"
 readTime: "3 min"

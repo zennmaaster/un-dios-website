@@ -1,10 +1,10 @@
 ---
 title: "9 reasons on what makes the Whore of Sparta!"
 date: "2010-01-01"
-category: "essay"
-description: "We are all awesome and lame in unequal proportions, take Whore of Sparta who is so lame that he puts the 'me' in lame. And, if it wasn't for him then it would be just 'la' which is, er…um… for lack of a better word, lame."
+category: "list"
+description: "We are all awesome and lame in unequal proportions, take Whore of Sparta who is so lame that he puts the 'me' in lame. A 9-item list that tells you as much about the writer as the subject."
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2010/01/9-reasons-on-what-makes-whore-of-sparta.html"
 source: "blog"
 readTime: "3 min"

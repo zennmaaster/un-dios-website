@@ -1,10 +1,10 @@
 ---
 title: "Listening to Loser!"
 date: "2009-03-01"
-category: "essay"
-description: "Every once in a while I tend to feel like a loser, am sure a lot of you out there feel this way from time to time, and probably are good at keeping these feelings to yourself rather than share it with anybody, but not me, oh no! I have this habit ..."
+category: "list"
+description: "Every once in a while I tend to feel like a loser, am sure a lot of you out there feel this way from time to time, and probably are good at keeping these feelings to yourself rather than share it with anybody, but not me, oh no!"
 genre: "List"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who like their observations numbered and their judgments unsolicited."
 originalUrl: "https://whabook.blogspot.com/2009/03/listening-to-loser.html"
 source: "blog"
 readTime: "2 min"

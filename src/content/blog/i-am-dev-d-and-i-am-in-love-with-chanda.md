@@ -1,7 +1,7 @@
 ---
 title: "I am Dev D. and I am in love with Chanda"
 date: "2009-01-01"
-category: "essay"
+category: "personal"
 description: "Yes, as the fever of Emosonal Atyachar catches the fancy of millions around the world and as the film is poised to make history once it releases, I thought let me write something recapping the month of Jan while the sound track of Dev D reverberat..."
 genre: "Relationships"
 audience: "For people who overthink love and are honest enough to admit it."

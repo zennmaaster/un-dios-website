@@ -10,9 +10,14 @@ const categoryColors: Record<string, string> = {
   essay: 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30',
   screenplay: 'bg-amber-500/20 text-amber-300 border-amber-500/30',
   review: 'bg-blue-500/20 text-blue-300 border-blue-500/30',
+  personal: 'bg-rose-500/20 text-rose-300 border-rose-500/30',
+  opinion: 'bg-orange-500/20 text-orange-300 border-orange-500/30',
+  humor: 'bg-yellow-500/20 text-yellow-300 border-yellow-500/30',
+  list: 'bg-cyan-500/20 text-cyan-300 border-cyan-500/30',
+  poetry: 'bg-pink-500/20 text-pink-300 border-pink-500/30',
 };
 
-const categories = ['all', 'fiction', 'essay', 'screenplay', 'review'];
+const categories = ['all', 'fiction', 'essay', 'personal', 'opinion', 'humor', 'list', 'review', 'screenplay', 'poetry'];
 ---
 
 <Layout title="Archive - Arvind Chandrashekar" description="Fiction, essays, and abandoned manuscripts from a previous life. Written between 2007-2020 under the pen name Athul DeMarco.">
@@ -20,7 +25,7 @@ const categories = ['all', 'fiction', 'essay', 'screenplay', 'review'];
   <!-- Header -->
   <section class="max-w-5xl mx-auto px-6 pt-20 pb-8">
     <h1 class="text-4xl md:text-5xl font-bold mb-4 tracking-tight">Archive</h1>
-    <p class="text-xl text-zinc-400 leading-relaxed max-w-3xl">
+    <p class="text-xl text-zinc-300 leading-relaxed max-w-3xl">
       Fiction, essays, and abandoned manuscripts from a previous life. Written between 2007&ndash;2020 under the pen name <span class="text-zinc-200 font-medium">Athul DeMarco</span>.
     </p>
   </section>
@@ -34,7 +39,7 @@ const categories = ['all', 'fiction', 'essay', 'screenplay', 'review'];
         </div>
         <div>
           <p class="text-sm text-zinc-500 mb-2 font-medium tracking-wide uppercase">About the Author</p>
-          <p class="text-zinc-400 leading-relaxed italic">
+          <p class="text-zinc-300 leading-relaxed italic">
             "Athul DeMarco resides in Bangalore. For now. He is a travelling design researcher. And when he is not traveling, he is seated, in his boxers, writing on his laptop or shouting at the television. He took a break from a cushy job, gave up a company expense account in 2009, and now spends his time writing stories instead of making PowerPoint presentations. He is delusional when it comes to cricket and believes that Ajit Agarkar is the greatest player of all time. He also believes that Sherlock Holmes truly exists."
           </p>
         </div>
@@ -87,11 +92,11 @@ const categories = ['all', 'fiction', 'essay', 'screenplay', 'review'];
                 )}
               </div>
               <h2 class="text-xl font-bold mb-2 group-hover:text-zinc-100 transition">{post.data.title}</h2>
-              <p class="text-zinc-400 text-sm leading-relaxed mb-3">{post.data.description}</p>
+              <p class="text-zinc-300 text-sm leading-relaxed mb-3">{post.data.description}</p>
               <p class="text-zinc-500 text-xs leading-relaxed">
                 <span class="text-zinc-600 font-medium">Genre:</span> {post.data.genre}
               </p>
-              <p class="text-zinc-500 text-xs leading-relaxed italic mt-1">{post.data.audience}</p>
+              <p class="text-zinc-400 text-xs leading-relaxed italic mt-1">{post.data.audience}</p>
             </div>
             <div class="shrink-0 text-zinc-700 group-hover:text-zinc-400 transition">
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -1,7 +1,7 @@
 ---
 title: "Smoke 2 Cigarettes and Call me in the Morning!"
 date: "2007-08-01"
-category: "essay"
+category: "personal"
 description: "I've never been sick a day in my life. How is that, you ask, given my considerably communicable extracurricular activities?"
 genre: "Addiction"
 audience: "For people who have loved something that was slowly killing them."

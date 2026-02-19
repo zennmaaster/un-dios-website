@@ -1,8 +1,8 @@
 ---
 title: "Quite Interesting"
 date: "2009-06-01"
-category: "essay"
-description: "Did you know that the Earth had more than one moon? Neither did I, and neither did Alan Davies (a degenerate bastard who also happens to be a genius with a lisp, kind of like me)."
+category: "personal"
+description: "Did you know that the Earth had more than one moon? But that happens on rare occasions."
 genre: "Addiction"
 audience: "For people who have loved something that was slowly killing them."
 originalUrl: "https://whabook.blogspot.com/2009/06/quite-interesting.html"

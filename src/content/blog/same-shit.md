@@ -1,10 +1,10 @@
 ---
 title: "Same Shit ! ! !"
 date: "2008-04-01"
-category: "essay"
-description: "You know off-late something has been bothering me cos I have heard the same shit time and again and people think its a given esp when it comes to me. I mean no matter what shit happens people think that I can deal with it and that I am strong enou..."
+category: "humor"
+description: "You know off-late something has been bothering me cos I have heard the same shit time and again and people think its a given esp when it comes to me."
 genre: "Humor"
-audience: "For people who like their humor unfiltered and their lists unreasonable."
+audience: "For people who laugh at things they probably shouldn't."
 originalUrl: "https://whabook.blogspot.com/2008/04/same-shit.html"
 source: "blog"
 readTime: "2 min"
